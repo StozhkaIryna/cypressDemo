@@ -1,4 +1,4 @@
-Web site for testing:
+Web sites for testing:
 
 =>  https://www.trademe.co.nz/
 
