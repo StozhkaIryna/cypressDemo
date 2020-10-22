@@ -7,4 +7,5 @@ context('FIRST TEST', () => {
         cy.get('#searchString').type('woodworking book').should('have.value', 'woodworking book')
         cy.get('.btn.btn-trademe').click()
     })
+
 })
